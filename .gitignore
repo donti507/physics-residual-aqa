@@ -1,0 +1,9 @@
+data/
+clips/
+*.mkv
+*.mp4
+*.npz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/figures/
