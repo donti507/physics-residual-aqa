@@ -1,0 +1,21 @@
+# physics-residual-aqa
+
+Do Newtonian flight-phase invariants, computed from monocular pose,
+carry measurable signal about diving execution quality?
+
+## Status
+Work in progress. No results yet.
+
+## Hypotheses
+- H0 (gate): the angular-momentum residual is reliably measurable
+  from broadcast 2D pose
+- H1: physics residuals improve prediction of difficulty-normalised
+  execution score over a matched pose-only baseline
+- H2: the advantage grows as labelled data shrinks
+
+## Data
+MTL-AQA (Parmar & Morris, CVPR 2019). Labels from the authors' repo;
+videos downloaded from the YouTube links they provide. Not redistributed here.
+
+## Not yet verified
+Everything. Results will be added only as experiments actually run.
