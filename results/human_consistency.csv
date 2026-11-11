@@ -1,0 +1,6 @@
+measure,median_px,lower_px,upper_px,approximate,paired_points,frames,source,notes
+overall,7.8,,,false,47,6,user_provided_independent_reannotation,Same-annotator self-disagreement; not ground-truth error
+excluding_probable_side_swaps,6.5,,,false,,,user_provided_independent_reannotation,Subset size not supplied
+hips,,20,22,false,,,user_provided_independent_reannotation,Reported range; no single median supplied
+shoulders_ankles_elbows_wrists,,7,10,false,,,user_provided_independent_reannotation,Reported range across these joints
+head,5,,,true,,,user_provided_independent_reannotation,Reported as about 5 pixels

@@ -1,0 +1,4 @@
+model,median_px,head_excluded,source
+vitpose,10.08,true,user_provided_conference_figure_values
+rtmpose,10.41,true,user_provided_conference_figure_values
+nsaqa,9.36,true,user_provided_conference_figure_values

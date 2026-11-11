@@ -1,0 +1,5 @@
+break_size_percent,sigma_1_px,sigma_2_px,sigma_3_px,sigma_5_px,sigma_8_px,sigma_10_px
+5,84,30,15,10,4,4
+10,100,85,46,17,11,10
+20,100,100,98,57,24,15
+40,100,100,100,100,70,51

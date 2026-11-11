@@ -1,0 +1,8 @@
+PASS: heatmap has all 24 source cells; highlighted sigma=3 column is [15,46,98,100]%.
+PASS: all 15 phase medians equal pooled raw non-head joint-error medians; finite gross errors retained.
+PASS: Figure 3 medians match the supplied CSV sources: 10.08, 10.41, 9.36, 7.8 px.
+PASS: results/figures/figure_1_requirement.png: 2560x1440 PNG, 200 dpi.
+PASS: results/figures/figure_2_reality.png: 2560x1440 PNG, 200 dpi.
+PASS: results/figures/figure_3_limit.png: 2560x1440 PNG, 200 dpi.
+PASS: missing CSVs raise before any figure outputs are created.
+7 validation checks passed; visual review completed separately.
