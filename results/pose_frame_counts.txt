@@ -1,0 +1,9 @@
+{
+  "total_entries": 313,
+  "ignored_non_png": 153,
+  "png_frames": 160,
+  "missing_shoulder_or_hip": 79,
+  "annotation_eligible": 81,
+  "degenerate_torso": 0,
+  "analysed_frames": 81
+}
