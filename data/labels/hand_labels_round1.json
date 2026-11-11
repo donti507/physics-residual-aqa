@@ -1,0 +1,8562 @@
+{
+  "format": "dive_keypoints_v1",
+  "joint_order": [
+    "head",
+    "l_shoulder",
+    "r_shoulder",
+    "l_elbow",
+    "r_elbow",
+    "l_wrist",
+    "r_wrist",
+    "l_hip",
+    "r_hip",
+    "l_knee",
+    "r_knee",
+    "l_ankle",
+    "r_ankle"
+  ],
+  "note": "Coordinates are in original image pixels. null means the joint was not visible.",
+  "images": {
+    "01_008_early.jpg": {
+      "head": [
+        622.58,
+        433.54
+      ],
+      "l_shoulder": [
+        594.7,
+        426.57
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        599.93,
+        489.29
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        591.22,
+        510.2
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        608.64,
+        287.19
+      ],
+      "r_hip": null,
+      "l_knee": [
+        626.06,
+        205.3
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        629.55,
+        123.41
+      ],
+      "r_ankle": null
+    },
+    "01_008_early.png": {
+      "head": [
+        584.25,
+        435.86
+      ],
+      "l_shoulder": [
+        599.93,
+        409.73
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        599.93,
+        467.22
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        587.73,
+        516.01
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        601.67,
+        294.74
+      ],
+      "r_hip": null,
+      "l_knee": [
+        627.8,
+        207.62
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        626.06,
+        116.44
+      ],
+      "r_ankle": null
+    },
+    "01_008_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_peak.jpg": {
+      "head": [
+        559.85,
+        252.34
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        544.17,
+        297.64
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        545.92,
+        329
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        573.79,
+        332.49
+      ],
+      "l_hip": null,
+      "r_hip": [
+        610.38,
+        362.11
+      ],
+      "l_knee": null,
+      "r_knee": [
+        648.71,
+        284.86
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        692.27,
+        215.75
+      ]
+    },
+    "01_008_peak.png": {
+      "head": [
+        566.82,
+        246.53
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        547.66,
+        300.54
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        547.66,
+        330.16
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        570.31,
+        329
+      ],
+      "l_hip": null,
+      "r_hip": [
+        608.64,
+        363.27
+      ],
+      "l_knee": null,
+      "r_knee": [
+        652.2,
+        279.06
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        685.3,
+        212.27
+      ]
+    },
+    "01_008_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_rot1.jpg": {
+      "head": [
+        605.15,
+        173.94
+      ],
+      "l_shoulder": [
+        565.08,
+        200.07
+      ],
+      "r_shoulder": [
+        622.58,
+        220.98
+      ],
+      "l_elbow": [
+        556.37,
+        186.13
+      ],
+      "r_elbow": [
+        667.88,
+        245.37
+      ],
+      "l_wrist": [
+        584.25,
+        156.52
+      ],
+      "r_wrist": [
+        702.72,
+        214.01
+      ],
+      "l_hip": [
+        650.45,
+        304.03
+      ],
+      "r_hip": [
+        615.61,
+        330.16
+      ],
+      "l_knee": null,
+      "r_knee": [
+        711.43,
+        359.78
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        770.67,
+        414.95
+      ]
+    },
+    "01_008_rot1.png": {
+      "head": [
+        610.38,
+        175.68
+      ],
+      "l_shoulder": [
+        566.82,
+        208.78
+      ],
+      "r_shoulder": [
+        626.06,
+        222.72
+      ],
+      "l_elbow": [
+        669.62,
+        247.11
+      ],
+      "r_elbow": [
+        556.37,
+        182.65
+      ],
+      "l_wrist": [
+        589.47,
+        153.03
+      ],
+      "r_wrist": [
+        699.24,
+        215.75
+      ],
+      "l_hip": [
+        652.2,
+        308.09
+      ],
+      "r_hip": [
+        619.09,
+        327.26
+      ],
+      "l_knee": null,
+      "r_knee": [
+        711.43,
+        361.52
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        767.19,
+        412.63
+      ]
+    },
+    "01_008_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_008_takeoff.jpg": {
+      "head": [
+        608.64,
+        432.96
+      ],
+      "l_shoulder": [
+        612.12,
+        413.21
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        619.09,
+        456.19
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        617.35,
+        505.55
+      ],
+      "r_wrist": [
+        629.55,
+        502.07
+      ],
+      "l_hip": [
+        606.9,
+        288.35
+      ],
+      "r_hip": null,
+      "l_knee": [
+        610.38,
+        196.01
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        606.9,
+        110.64
+      ],
+      "r_ankle": null
+    },
+    "01_008_takeoff.png": {
+      "head": [
+        610.38,
+        435.28
+      ],
+      "l_shoulder": [
+        610.38,
+        402.18
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        617.35,
+        459.67
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        615.61,
+        504.97
+      ],
+      "r_wrist": [
+        626.06,
+        501.49
+      ],
+      "l_hip": [
+        599.93,
+        285.44
+      ],
+      "r_hip": null,
+      "l_knee": [
+        608.64,
+        201.81
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        603.41,
+        112.96
+      ],
+      "r_ankle": null
+    },
+    "01_019_early.jpg": {
+      "head": [
+        601.67,
+        277.89
+      ],
+      "l_shoulder": [
+        622.58,
+        302.29
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        666.13,
+        280.22
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        692.27,
+        268.02
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        681.81,
+        376.62
+      ],
+      "r_hip": null,
+      "l_knee": [
+        605.15,
+        423.67
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        624.32,
+        503.23
+      ],
+      "r_ankle": null
+    },
+    "01_019_early.png": {
+      "head": [
+        596.44,
+        274.41
+      ],
+      "l_shoulder": [
+        626.06,
+        307.51
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        662.65,
+        279.64
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        694.01,
+        269.18
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        683.56,
+        385.92
+      ],
+      "r_hip": null,
+      "l_knee": [
+        603.41,
+        429.47
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        629.55,
+        508.46
+      ],
+      "r_ankle": null
+    },
+    "01_019_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_peak.jpg": {
+      "head": [
+        730.6,
+        308.68
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        692.27,
+        303.45
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        653.94,
+        339.46
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        626.06,
+        379.53
+      ],
+      "l_hip": null,
+      "r_hip": [
+        605.15,
+        325.52
+      ],
+      "l_knee": null,
+      "r_knee": [
+        657.42,
+        394.05
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        667.88,
+        478.84
+      ]
+    },
+    "01_019_peak.png": {
+      "head": [
+        734.08,
+        309.84
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        683.56,
+        304.61
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        653.94,
+        339.46
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        629.55,
+        376.62
+      ],
+      "l_hip": null,
+      "r_hip": [
+        598.19,
+        322.61
+      ],
+      "l_knee": null,
+      "r_knee": [
+        650.45,
+        398.11
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        667.88,
+        469.55
+      ]
+    },
+    "01_019_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_rot1.jpg": {
+      "head": [
+        702.72,
+        447.48
+      ],
+      "l_shoulder": [
+        660.91,
+        426.57
+      ],
+      "r_shoulder": [
+        713.18,
+        395.21
+      ],
+      "l_elbow": [
+        751.51,
+        407.4
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        727.11,
+        431.8
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        641.74,
+        323.19
+      ],
+      "r_hip": [
+        608.64,
+        358.04
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_019_rot1.png": {
+      "head": [
+        700.98,
+        442.83
+      ],
+      "l_shoulder": [
+        666.13,
+        427.15
+      ],
+      "r_shoulder": [
+        699.24,
+        390.56
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        763.7,
+        414.95
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        730.6,
+        423.67
+      ],
+      "l_hip": [
+        613.87,
+        359.2
+      ],
+      "r_hip": [
+        650.45,
+        333.07
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        493.65,
+        240.73
+      ],
+      "r_ankle": [
+        514.56,
+        226.79
+      ]
+    },
+    "01_019_rot2.jpg": {
+      "head": [
+        704.46,
+        482.32
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        688.78,
+        448.64
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        678.33,
+        488.71
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        671.36,
+        542.72
+      ],
+      "l_hip": null,
+      "r_hip": [
+        664.39,
+        375.46
+      ],
+      "l_knee": null,
+      "r_knee": [
+        573.79,
+        354.56
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        493.65,
+        345.84
+      ]
+    },
+    "01_019_rot2.png": {
+      "head": [
+        700.98,
+        480
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        694.01,
+        455.61
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        683.56,
+        488.71
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        667.88,
+        540.98
+      ],
+      "l_hip": null,
+      "r_hip": [
+        664.39,
+        375.46
+      ],
+      "l_knee": null,
+      "r_knee": [
+        570.31,
+        349.33
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        490.16,
+        344.1
+      ]
+    },
+    "01_019_takeoff.jpg": {
+      "head": [
+        606.9,
+        187.3
+      ],
+      "l_shoulder": [
+        629.55,
+        236.08
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        640,
+        279.64
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        660.91,
+        326.68
+      ],
+      "r_wrist": [
+        674.85,
+        319.71
+      ],
+      "l_hip": [
+        624.32,
+        326.68
+      ],
+      "r_hip": null,
+      "l_knee": [
+        631.29,
+        408.57
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        648.71,
+        486.97
+      ],
+      "r_ankle": null
+    },
+    "01_019_takeoff.png": {
+      "head": [
+        601.67,
+        178
+      ],
+      "l_shoulder": [
+        629.55,
+        237.24
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        643.48,
+        282.54
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        653.94,
+        326.1
+      ],
+      "r_wrist": [
+        671.36,
+        317.39
+      ],
+      "l_hip": [
+        624.32,
+        322.61
+      ],
+      "r_hip": null,
+      "l_knee": [
+        629.55,
+        408.57
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        641.74,
+        494.52
+      ],
+      "r_ankle": null
+    },
+    "01_034_early.jpg": {
+      "head": [
+        613.87,
+        511.36
+      ],
+      "l_shoulder": [
+        502.36,
+        692.56
+      ],
+      "r_shoulder": [
+        753.25,
+        683.85
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": [
+        366.46,
+        405.08
+      ],
+      "r_wrist": [
+        964.07,
+        425.99
+      ],
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_early.png": {
+      "head": [
+        619.09,
+        495.68
+      ],
+      "l_shoulder": [
+        486.68,
+        692.56
+      ],
+      "r_shoulder": [
+        768.93,
+        666.42
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": [
+        362.98,
+        403.34
+      ],
+      "r_wrist": [
+        962.32,
+        417.28
+      ],
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_peak.jpg": {
+      "head": [
+        606.9,
+        409.15
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        657.42,
+        388.24
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        690.53,
+        360.36
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        655.68,
+        329
+      ],
+      "l_hip": null,
+      "r_hip": [
+        720.15,
+        313.32
+      ],
+      "l_knee": null,
+      "r_knee": [
+        650.45,
+        360.94
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        645.23,
+        276.73
+      ]
+    },
+    "01_034_peak.png": {
+      "head": [
+        608.64,
+        409.73
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        653.94,
+        383.59
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        694.01,
+        366.17
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        664.39,
+        326.1
+      ],
+      "l_hip": null,
+      "r_hip": [
+        713.18,
+        305.19
+      ],
+      "l_knee": null,
+      "r_knee": [
+        657.42,
+        353.97
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        636.52,
+        270.34
+      ]
+    },
+    "01_034_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_rot1.jpg": {
+      "head": [
+        599.93,
+        334.23
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        633.03,
+        287.19
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        655.68,
+        241.89
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        629.55,
+        203.56
+      ],
+      "l_hip": null,
+      "r_hip": [
+        707.95,
+        229.69
+      ],
+      "l_knee": null,
+      "r_knee": [
+        612.12,
+        238.4
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        640,
+        160
+      ]
+    },
+    "01_034_rot1.png": {
+      "head": [
+        601.67,
+        325.52
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        643.48,
+        289.51
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        662.65,
+        241.89
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        624.32,
+        201.81
+      ],
+      "l_hip": null,
+      "r_hip": [
+        688.78,
+        231.43
+      ],
+      "l_knee": null,
+      "r_knee": [
+        610.38,
+        233.18
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        636.52,
+        165.23
+      ]
+    },
+    "01_034_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        619.09,
+        571.76
+      ],
+      "l_knee": null,
+      "r_knee": [
+        636.52,
+        517.75
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        681.81,
+        435.86
+      ]
+    },
+    "01_034_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        619.09,
+        553.18
+      ],
+      "l_knee": null,
+      "r_knee": [
+        643.48,
+        504.39
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        680.07,
+        425.99
+      ]
+    },
+    "01_034_takeoff.jpg": {
+      "head": [
+        624.32,
+        116.44
+      ],
+      "l_shoulder": [
+        788.09,
+        290.67
+      ],
+      "r_shoulder": [
+        507.59,
+        306.35
+      ],
+      "l_elbow": [
+        979.75,
+        294.16
+      ],
+      "r_elbow": [
+        321.16,
+        334.23
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        105.12,
+        304.61
+      ],
+      "l_hip": [
+        739.31,
+        668.75
+      ],
+      "r_hip": [
+        552.89,
+        683.85
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_034_takeoff.png": {
+      "head": [
+        633.03,
+        130.96
+      ],
+      "l_shoulder": [
+        796.81,
+        280.8
+      ],
+      "r_shoulder": [
+        486.68,
+        305.19
+      ],
+      "l_elbow": [
+        988.46,
+        263.38
+      ],
+      "r_elbow": [
+        289.8,
+        301.71
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        96.41,
+        305.19
+      ],
+      "l_hip": [
+        741.05,
+        683.27
+      ],
+      "r_hip": [
+        552.89,
+        693.72
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_early.jpg": {
+      "head": [
+        655.68,
+        237.82
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        622.58,
+        279.06
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        640,
+        216.33
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        638.26,
+        164.07
+      ],
+      "l_hip": null,
+      "r_hip": [
+        596.44,
+        392.3
+      ],
+      "l_knee": null,
+      "r_knee": [
+        659.17,
+        486.39
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        629.55,
+        575.25
+      ]
+    },
+    "01_035_early.png": {
+      "head": [
+        653.94,
+        233.76
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        624.32,
+        274.99
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        643.48,
+        226.21
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        641.74,
+        182.65
+      ],
+      "l_hip": null,
+      "r_hip": [
+        591.22,
+        405.66
+      ],
+      "l_knee": null,
+      "r_knee": [
+        657.42,
+        478.84
+      ],
+      "l_ankle": [
+        633.03,
+        575.25
+      ],
+      "r_ankle": null
+    },
+    "01_035_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_peak.jpg": {
+      "head": [
+        568.57,
+        330.74
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        596.44,
+        348.17
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        610.38,
+        299.38
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        615.61,
+        280.22
+      ],
+      "l_hip": null,
+      "r_hip": [
+        687.04,
+        335.97
+      ],
+      "l_knee": null,
+      "r_knee": [
+        598.19,
+        284.28
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        525.01,
+        272.09
+      ]
+    },
+    "01_035_peak.png": {
+      "head": [
+        566.82,
+        330.74
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        601.67,
+        348.17
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        608.64,
+        297.64
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        617.35,
+        276.73
+      ],
+      "l_hip": null,
+      "r_hip": [
+        688.78,
+        343.52
+      ],
+      "l_knee": null,
+      "r_knee": [
+        591.22,
+        287.19
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        514.56,
+        259.31
+      ]
+    },
+    "01_035_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_035_rot1.jpg": {
+      "head": [
+        678.33,
+        207.04
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        629.55,
+        201.81
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        622.58,
+        255.83
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        608.64,
+        268.02
+      ],
+      "l_hip": null,
+      "r_hip": [
+        544.17,
+        215.75
+      ],
+      "l_knee": null,
+      "r_knee": [
+        641.74,
+        247.11
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        700.98,
+        280.8
+      ]
+    },
+    "01_035_rot1.png": {
+      "head": [
+        667.88,
+        197.17
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        624.32,
+        195.43
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        626.06,
+        244.21
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        605.15,
+        263.38
+      ],
+      "l_hip": null,
+      "r_hip": [
+        545.92,
+        205.88
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        690.53,
+        275.57
+      ]
+    },
+    "01_035_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": [
+        700.98,
+        541.56
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        681.81,
+        450.96
+      ],
+      "l_knee": null,
+      "r_knee": [
+        624.32,
+        356.88
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        591.22,
+        301.13
+      ]
+    },
+    "01_035_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": [
+        692.27,
+        539.82
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        673.1,
+        449.22
+      ],
+      "l_knee": null,
+      "r_knee": [
+        631.29,
+        362.11
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        594.7,
+        308.68
+      ]
+    },
+    "01_035_takeoff.jpg": {
+      "head": [
+        591.22,
+        210.53
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        565.08,
+        255.83
+      ],
+      "l_elbow": [
+        601.67,
+        180.91
+      ],
+      "r_elbow": [
+        561.6,
+        200.07
+      ],
+      "l_wrist": [
+        605.15,
+        144.32
+      ],
+      "r_wrist": [
+        544.17,
+        161.74
+      ],
+      "l_hip": null,
+      "r_hip": [
+        538.95,
+        389.98
+      ],
+      "l_knee": [
+        514.56,
+        461.42
+      ],
+      "r_knee": [
+        606.9,
+        463.16
+      ],
+      "l_ankle": [
+        453.58,
+        531.11
+      ],
+      "r_ankle": [
+        615.61,
+        541.56
+      ]
+    },
+    "01_035_takeoff.png": {
+      "head": [
+        591.22,
+        215.75
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        559.85,
+        257.57
+      ],
+      "l_elbow": [
+        605.15,
+        193.1
+      ],
+      "r_elbow": [
+        556.37,
+        212.27
+      ],
+      "l_wrist": [
+        605.15,
+        144.32
+      ],
+      "r_wrist": [
+        559.85,
+        168.71
+      ],
+      "l_hip": null,
+      "r_hip": [
+        537.21,
+        381.27
+      ],
+      "l_knee": [
+        612.12,
+        466.64
+      ],
+      "r_knee": [
+        507.59,
+        470.13
+      ],
+      "l_ankle": [
+        624.32,
+        543.3
+      ],
+      "r_ankle": [
+        446.61,
+        513.68
+      ]
+    },
+    "01_119_early.jpg": {
+      "head": [
+        699.24,
+        383.59
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        662.65,
+        344.68
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        613.87,
+        403.92
+      ],
+      "l_wrist": [
+        577.28,
+        412.63
+      ],
+      "r_wrist": [
+        579.02,
+        437.02
+      ],
+      "l_hip": null,
+      "r_hip": [
+        657.42,
+        231.43
+      ],
+      "l_knee": null,
+      "r_knee": [
+        556.37,
+        227.95
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        526.75,
+        137.35
+      ]
+    },
+    "01_119_early.png": {
+      "head": [
+        697.5,
+        381.85
+      ],
+      "l_shoulder": [
+        666.13,
+        355.72
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        622.58,
+        397.53
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        584.25,
+        439.35
+      ],
+      "r_wrist": [
+        580.76,
+        404.5
+      ],
+      "l_hip": [
+        666.13,
+        235.5
+      ],
+      "r_hip": null,
+      "l_knee": [
+        559.85,
+        238.98
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        535.46,
+        148.38
+      ],
+      "r_ankle": null
+    },
+    "01_119_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_peak.jpg": {
+      "head": [
+        615.61,
+        560.73
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        653.94,
+        552.6
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        620.83,
+        597.89
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        605.15,
+        629.26
+      ],
+      "l_hip": null,
+      "r_hip": [
+        702.72,
+        460.25
+      ],
+      "l_knee": null,
+      "r_knee": [
+        774.16,
+        387.08
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        836.88,
+        340.04
+      ]
+    },
+    "01_119_peak.png": {
+      "head": [
+        619.09,
+        560.73
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        646.97,
+        563.05
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        619.09,
+        603.12
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        601.67,
+        617.06
+      ],
+      "l_hip": null,
+      "r_hip": [
+        716.66,
+        453.28
+      ],
+      "l_knee": null,
+      "r_knee": [
+        779.38,
+        388.82
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        842.11,
+        338.29
+      ]
+    },
+    "01_119_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_rot1.jpg": {
+      "head": [
+        742.79,
+        137.35
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        699.24,
+        166.97
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        695.75,
+        196.59
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        748.02,
+        208.78
+      ],
+      "l_hip": null,
+      "r_hip": [
+        694.01,
+        280.22
+      ],
+      "l_knee": null,
+      "r_knee": [
+        765.44,
+        205.3
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        782.87,
+        288.93
+      ]
+    },
+    "01_119_rot1.png": {
+      "head": [
+        741.05,
+        132.12
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        707.95,
+        173.94
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        692.27,
+        198.33
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        734.08,
+        211.11
+      ],
+      "l_hip": null,
+      "r_hip": [
+        697.5,
+        275.57
+      ],
+      "l_knee": null,
+      "r_knee": [
+        761.96,
+        200.65
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        775.9,
+        280.22
+      ]
+    },
+    "01_119_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "01_119_takeoff.jpg": {
+      "head": [
+        589.47,
+        450.96
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        568.57,
+        424.83
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        554.63,
+        477.1
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        558.11,
+        534.59
+      ],
+      "l_hip": null,
+      "r_hip": [
+        575.54,
+        311.58
+      ],
+      "l_knee": null,
+      "r_knee": [
+        570.31,
+        222.72
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        634.77,
+        137.35
+      ]
+    },
+    "01_119_takeoff.png": {
+      "head": [
+        584.25,
+        457.93
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        563.34,
+        410.89
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        556.37,
+        464.9
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        556.37,
+        522.4
+      ],
+      "l_hip": null,
+      "r_hip": [
+        566.82,
+        308.09
+      ],
+      "l_knee": null,
+      "r_knee": [
+        573.79,
+        203.56
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        626.06,
+        133.87
+      ]
+    },
+    "02_015_early.jpg": {
+      "head": [
+        528.49,
+        435.28
+      ],
+      "l_shoulder": [
+        551.14,
+        412.63
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        559.85,
+        461.42
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        542.43,
+        518.91
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        592.96,
+        304.61
+      ],
+      "r_hip": null,
+      "l_knee": [
+        615.61,
+        198.33
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        566.82,
+        137.35
+      ],
+      "r_ankle": null
+    },
+    "02_015_early.png": {
+      "head": [
+        519.78,
+        446.32
+      ],
+      "l_shoulder": [
+        549.4,
+        401.02
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        559.85,
+        458.51
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        549.4,
+        509.04
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        582.5,
+        308.68
+      ],
+      "r_hip": null,
+      "l_knee": [
+        615.61,
+        209.36
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        559.85,
+        133.87
+      ],
+      "r_ankle": null
+    },
+    "02_015_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_peak.jpg": {
+      "head": [
+        556.37,
+        294.16
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        592.96,
+        342.94
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        690.53,
+        342.94
+      ],
+      "l_knee": null,
+      "r_knee": [
+        720.15,
+        236.66
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        734.08,
+        167.55
+      ]
+    },
+    "02_015_peak.png": {
+      "head": [
+        565.08,
+        291.25
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        580.76,
+        334.81
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        694.01,
+        341.78
+      ],
+      "l_knee": null,
+      "r_knee": [
+        720.15,
+        242.47
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        730.6,
+        158.26
+      ]
+    },
+    "02_015_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_rot1.jpg": {
+      "head": [
+        702.72,
+        177.42
+      ],
+      "l_shoulder": [
+        664.39,
+        196.59
+      ],
+      "r_shoulder": [
+        671.36,
+        227.95
+      ],
+      "l_elbow": [
+        737.57,
+        208.78
+      ],
+      "r_elbow": [
+        713.18,
+        269.76
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        768.93,
+        264.54
+      ],
+      "l_hip": null,
+      "r_hip": [
+        669.62,
+        335.97
+      ],
+      "l_knee": null,
+      "r_knee": [
+        720.15,
+        409.73
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        749.76,
+        471.87
+      ]
+    },
+    "02_015_rot1.png": {
+      "head": [
+        702.72,
+        179.17
+      ],
+      "l_shoulder": [
+        664.39,
+        193.1
+      ],
+      "r_shoulder": [
+        666.13,
+        231.43
+      ],
+      "l_elbow": [
+        737.57,
+        203.56
+      ],
+      "r_elbow": [
+        716.66,
+        266.28
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        760.22,
+        269.76
+      ],
+      "l_hip": null,
+      "r_hip": [
+        664.39,
+        323.77
+      ],
+      "l_knee": null,
+      "r_knee": [
+        716.66,
+        414.37
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        751.51,
+        466.64
+      ]
+    },
+    "02_015_rot2.jpg": {
+      "head": [
+        587.73,
+        471.87
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_rot2.png": {
+      "head": [
+        589.47,
+        461.42
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_015_takeoff.jpg": {
+      "head": [
+        599.93,
+        438.77
+      ],
+      "l_shoulder": [
+        603.41,
+        400.44
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        608.64,
+        466.64
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        606.9,
+        515.43
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        603.41,
+        295.9
+      ],
+      "r_hip": null,
+      "l_knee": [
+        610.38,
+        193.1
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        606.9,
+        97.28
+      ],
+      "r_ankle": null
+    },
+    "02_015_takeoff.png": {
+      "head": [
+        598.19,
+        438.77
+      ],
+      "l_shoulder": [
+        603.41,
+        391.72
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        615.61,
+        461.42
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        608.64,
+        508.46
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        601.67,
+        280.22
+      ],
+      "r_hip": null,
+      "l_knee": [
+        610.38,
+        191.36
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        605.15,
+        102.5
+      ],
+      "r_ankle": null
+    },
+    "02_023_early.jpg": {
+      "head": [
+        617.35,
+        189.62
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        608.64,
+        234.92
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        594.7,
+        350.49
+      ],
+      "l_knee": null,
+      "r_knee": [
+        640,
+        439.35
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        561.6,
+        507.3
+      ]
+    },
+    "02_023_early.png": {
+      "head": [
+        629.55,
+        181.49
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        608.64,
+        238.98
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        585.99,
+        350.49
+      ],
+      "l_knee": null,
+      "r_knee": [
+        643.48,
+        442.83
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        565.08,
+        503.23
+      ]
+    },
+    "02_023_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_023_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_023_late.jpg": {
+      "head": [
+        584.25,
+        555.5
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_023_late.png": {
+      "head": [
+        584.25,
+        553.76
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_023_peak.jpg": {
+      "head": [
+        521.52,
+        355.14
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        531.98,
+        301.71
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        535.46,
+        247.7
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        507.59,
+        191.94
+      ],
+      "l_hip": null,
+      "r_hip": [
+        592.96,
+        216.33
+      ],
+      "l_knee": null,
+      "r_knee": [
+        484.94,
+        226.79
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        525.01,
+        156.52
+      ]
+    },
+    "02_023_peak.png": {
+      "head": [
+        518.04,
+        356.88
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        519.78,
+        302.87
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        537.21,
+        241.89
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        497.13,
+        187.88
+      ],
+      "l_hip": null,
+      "r_hip": [
+        584.25,
+        229.69
+      ],
+      "l_knee": null,
+      "r_knee": [
+        472.74,
+        229.69
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        518.04,
+        144.32
+      ]
+    },
+    "02_023_preentry.jpg": {
+      "head": [
+        462.29,
+        540.4
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_023_preentry.png": {
+      "head": [
+        467.51,
+        556.08
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_023_rot1.jpg": {
+      "head": [
+        585.99,
+        154.19
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        538.95,
+        207.04
+      ],
+      "l_elbow": [
+        610.38,
+        151.29
+      ],
+      "r_elbow": [
+        558.11,
+        153.03
+      ],
+      "l_wrist": [
+        633.03,
+        107.73
+      ],
+      "r_wrist": [
+        552.89,
+        90.31
+      ],
+      "l_hip": null,
+      "r_hip": [
+        551.14,
+        322.03
+      ],
+      "l_knee": [
+        640,
+        391.72
+      ],
+      "r_knee": [
+        535.46,
+        437.02
+      ],
+      "l_ankle": [
+        587.73,
+        461.42
+      ],
+      "r_ankle": [
+        511.07,
+        524.14
+      ]
+    },
+    "02_023_rot1.png": {
+      "head": [
+        580.76,
+        154.19
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": [
+        608.64,
+        154.19
+      ],
+      "r_elbow": [
+        547.66,
+        152.45
+      ],
+      "l_wrist": [
+        629.55,
+        107.15
+      ],
+      "r_wrist": [
+        549.4,
+        93.21
+      ],
+      "l_hip": null,
+      "r_hip": [
+        552.89,
+        323.19
+      ],
+      "l_knee": [
+        556.37,
+        441.67
+      ],
+      "r_knee": [
+        640,
+        378.95
+      ],
+      "l_ankle": [
+        512.81,
+        513.1
+      ],
+      "r_ankle": [
+        582.5,
+        455.61
+      ]
+    },
+    "02_023_rot2.jpg": {
+      "head": [
+        748.02,
+        229.11
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        706.21,
+        214.01
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        664.39,
+        214.01
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        620.83,
+        264.54
+      ],
+      "l_hip": null,
+      "r_hip": [
+        601.67,
+        200.07
+      ],
+      "l_knee": [
+        681.81,
+        255.83
+      ],
+      "r_knee": [
+        664.39,
+        271.51
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        570.31,
+        280.22
+      ]
+    },
+    "02_023_rot2.png": {
+      "head": [
+        748.02,
+        220.98
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        702.72,
+        210.53
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        660.91,
+        210.53
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        622.58,
+        262.79
+      ],
+      "l_hip": null,
+      "r_hip": [
+        594.7,
+        203.56
+      ],
+      "l_knee": [
+        678.33,
+        245.95
+      ],
+      "r_knee": [
+        667.88,
+        265.12
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        577.28,
+        270.34
+      ]
+    },
+    "02_023_takeoff.jpg": {
+      "head": [
+        533.72,
+        139.67
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        507.59,
+        202.4
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        493.65,
+        251.18
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        474.48,
+        310.42
+      ],
+      "l_hip": null,
+      "r_hip": [
+        516.3,
+        289.51
+      ],
+      "l_knee": [
+        504.1,
+        397.53
+      ],
+      "r_knee": [
+        580.76,
+        392.3
+      ],
+      "l_ankle": [
+        472.74,
+        484.65
+      ],
+      "r_ankle": [
+        554.63,
+        474.19
+      ]
+    },
+    "02_023_takeoff.png": {
+      "head": [
+        538.95,
+        136.19
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        504.1,
+        204.14
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        476.23,
+        252.92
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        472.74,
+        324.36
+      ],
+      "l_hip": null,
+      "r_hip": [
+        507.59,
+        294.74
+      ],
+      "l_knee": [
+        504.1,
+        404.5
+      ],
+      "r_knee": [
+        580.76,
+        392.3
+      ],
+      "l_ankle": [
+        462.29,
+        484.65
+      ],
+      "r_ankle": [
+        549.4,
+        481.16
+      ]
+    },
+    "02_031_early.jpg": {
+      "head": [
+        641.74,
+        203.56
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": [
+        645.23,
+        229.69
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        622.58,
+        208.78
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        641.74,
+        353.39
+      ],
+      "r_hip": null,
+      "l_knee": [
+        641.74,
+        443.99
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        664.39,
+        524.14
+      ],
+      "r_ankle": null
+    },
+    "02_031_early.png": {
+      "head": [
+        646.97,
+        207.04
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": [
+        640,
+        236.66
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        629.55,
+        210.53
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        669.62,
+        363.85
+      ],
+      "r_hip": null,
+      "l_knee": [
+        650.45,
+        443.99
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        664.39,
+        520.65
+      ],
+      "r_ankle": null
+    },
+    "02_031_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_031_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_031_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_031_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_031_peak.jpg": {
+      "head": [
+        707.95,
+        395.21
+      ],
+      "l_shoulder": [
+        660.91,
+        360.36
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        608.64,
+        356.88
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        622.58,
+        311.58
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        577.28,
+        327.26
+      ],
+      "r_hip": null,
+      "l_knee": [
+        662.65,
+        337.71
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        598.19,
+        287.19
+      ],
+      "r_ankle": null
+    },
+    "02_031_peak.png": {
+      "head": [
+        702.72,
+        400.44
+      ],
+      "l_shoulder": [
+        664.39,
+        367.33
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        613.87,
+        370.82
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        615.61,
+        313.32
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        575.54,
+        323.77
+      ],
+      "r_hip": null,
+      "l_knee": [
+        659.17,
+        342.94
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        598.19,
+        283.7
+      ],
+      "r_ankle": null
+    },
+    "02_031_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_031_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_031_rot1.jpg": {
+      "head": [
+        716.66,
+        259.31
+      ],
+      "l_shoulder": [
+        690.53,
+        281.96
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        683.56,
+        224.46
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        695.75,
+        189.62
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        678.33,
+        389.98
+      ],
+      "r_hip": null,
+      "l_knee": [
+        603.41,
+        454.45
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        634.77,
+        536.91
+      ],
+      "r_ankle": null
+    },
+    "02_031_rot1.png": {
+      "head": [
+        720.15,
+        252.34
+      ],
+      "l_shoulder": [
+        688.78,
+        274.99
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        687.04,
+        227.95
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        688.78,
+        187.88
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        681.81,
+        389.98
+      ],
+      "r_hip": null,
+      "l_knee": [
+        610.38,
+        459.67
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        634.77,
+        539.82
+      ],
+      "r_ankle": null
+    },
+    "02_031_rot2.jpg": {
+      "head": [
+        713.18,
+        325.52
+      ],
+      "l_shoulder": [
+        699.24,
+        377.79
+      ],
+      "r_shoulder": [
+        678.33,
+        344.68
+      ],
+      "l_elbow": [
+        659.17,
+        384.75
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        624.32,
+        348.17
+      ],
+      "r_wrist": [
+        606.9,
+        309.84
+      ],
+      "l_hip": [
+        664.39,
+        449.22
+      ],
+      "r_hip": [
+        646.97,
+        409.15
+      ],
+      "l_knee": [
+        587.73,
+        403.92
+      ],
+      "r_knee": [
+        601.67,
+        388.24
+      ],
+      "l_ankle": [
+        500.62,
+        349.91
+      ],
+      "r_ankle": null
+    },
+    "02_031_rot2.png": {
+      "head": [
+        720.15,
+        322.03
+      ],
+      "l_shoulder": [
+        706.21,
+        381.27
+      ],
+      "r_shoulder": [
+        678.33,
+        346.42
+      ],
+      "l_elbow": [
+        655.68,
+        388.24
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        626.06,
+        348.17
+      ],
+      "r_wrist": [
+        606.9,
+        311.58
+      ],
+      "l_hip": [
+        667.88,
+        440.51
+      ],
+      "r_hip": [
+        645.23,
+        409.15
+      ],
+      "l_knee": [
+        580.76,
+        402.18
+      ],
+      "r_knee": [
+        598.19,
+        395.21
+      ],
+      "l_ankle": [
+        507.59,
+        355.14
+      ],
+      "r_ankle": null
+    },
+    "02_031_takeoff.jpg": {
+      "head": [
+        627.8,
+        203.56
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": [
+        646.97,
+        257.57
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        653.94,
+        356.88
+      ],
+      "r_hip": null,
+      "l_knee": [
+        652.2,
+        445.74
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        671.36,
+        534.59
+      ],
+      "r_ankle": null
+    },
+    "02_031_takeoff.png": {
+      "head": [
+        640,
+        212.27
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": [
+        646.97,
+        255.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        652.2,
+        360.36
+      ],
+      "r_hip": null,
+      "l_knee": [
+        646.97,
+        443.99
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        671.36,
+        527.62
+      ],
+      "r_ankle": null
+    },
+    "02_044_early.jpg": {
+      "head": [
+        603.41,
+        180.91
+      ],
+      "l_shoulder": [
+        596.44,
+        203.56
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        585.99,
+        168.71
+      ],
+      "r_elbow": [
+        598.19,
+        158.26
+      ],
+      "l_wrist": [
+        575.54,
+        126.9
+      ],
+      "r_wrist": [
+        596.44,
+        118.19
+      ],
+      "l_hip": [
+        622.58,
+        348.17
+      ],
+      "r_hip": null,
+      "l_knee": [
+        617.35,
+        426.57
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        622.58,
+        513.68
+      ],
+      "r_ankle": null
+    },
+    "02_044_early.png": {
+      "head": [
+        601.67,
+        187.88
+      ],
+      "l_shoulder": [
+        608.64,
+        214.01
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        584.25,
+        168.71
+      ],
+      "r_elbow": [
+        599.93,
+        151.29
+      ],
+      "l_wrist": [
+        577.28,
+        126.9
+      ],
+      "r_wrist": [
+        594.7,
+        118.19
+      ],
+      "l_hip": [
+        619.09,
+        346.42
+      ],
+      "r_hip": null,
+      "l_knee": [
+        608.64,
+        433.54
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        622.58,
+        515.43
+      ],
+      "r_ankle": null
+    },
+    "02_044_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_044_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_044_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_044_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_044_peak.jpg": {
+      "head": [
+        714.92,
+        450.96
+      ],
+      "l_shoulder": [
+        667.88,
+        449.22
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        645.23,
+        437.02
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        650.45,
+        381.85
+      ],
+      "r_wrist": [
+        667.88,
+        373.14
+      ],
+      "l_hip": [
+        592.96,
+        376.62
+      ],
+      "r_hip": null,
+      "l_knee": [
+        678.33,
+        409.73
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        626.06,
+        345.26
+      ],
+      "r_ankle": null
+    },
+    "02_044_peak.png": {
+      "head": [
+        716.66,
+        448.06
+      ],
+      "l_shoulder": [
+        674.85,
+        449.8
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        640,
+        430.05
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        643.48,
+        389.98
+      ],
+      "r_wrist": [
+        660.91,
+        379.53
+      ],
+      "l_hip": [
+        592.96,
+        384.75
+      ],
+      "r_hip": null,
+      "l_knee": [
+        678.33,
+        416.12
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        633.03,
+        346.42
+      ],
+      "r_ankle": null
+    },
+    "02_044_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_044_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_044_rot1.jpg": {
+      "head": [
+        662.65,
+        404.5
+      ],
+      "l_shoulder": [
+        641.74,
+        343.52
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        652.2,
+        296.48
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        695.75,
+        270.34
+      ],
+      "r_wrist": [
+        706.21,
+        282.54
+      ],
+      "l_hip": [
+        627.8,
+        268.6
+      ],
+      "r_hip": null,
+      "l_knee": [
+        694.01,
+        315.64
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        690.53,
+        240.73
+      ],
+      "r_ankle": null
+    },
+    "02_044_rot1.png": {
+      "head": [
+        662.65,
+        390.56
+      ],
+      "l_shoulder": [
+        645.23,
+        352.23
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        650.45,
+        296.48
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        692.27,
+        280.8
+      ],
+      "r_wrist": [
+        702.72,
+        286.03
+      ],
+      "l_hip": [
+        622.58,
+        268.6
+      ],
+      "r_hip": null,
+      "l_knee": [
+        695.75,
+        319.13
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        688.78,
+        237.24
+      ],
+      "r_ankle": null
+    },
+    "02_044_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        603.41,
+        442.83
+      ],
+      "r_ankle": null
+    },
+    "02_044_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        612.12,
+        435.86
+      ],
+      "r_ankle": null
+    },
+    "02_044_takeoff.jpg": {
+      "head": [
+        608.64,
+        208.78
+      ],
+      "l_shoulder": [
+        606.9,
+        231.43
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        585.99,
+        196.59
+      ],
+      "r_elbow": [
+        594.7,
+        182.65
+      ],
+      "l_wrist": [
+        573.79,
+        147.8
+      ],
+      "r_wrist": [
+        580.76,
+        151.29
+      ],
+      "l_hip": [
+        619.09,
+        351.65
+      ],
+      "r_hip": null,
+      "l_knee": [
+        619.09,
+        440.51
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        629.55,
+        520.65
+      ],
+      "r_ankle": null
+    },
+    "02_044_takeoff.png": {
+      "head": [
+        608.64,
+        203.56
+      ],
+      "l_shoulder": [
+        606.9,
+        234.92
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        585.99,
+        201.81
+      ],
+      "r_elbow": [
+        594.7,
+        186.13
+      ],
+      "l_wrist": [
+        573.79,
+        147.8
+      ],
+      "r_wrist": [
+        582.5,
+        147.8
+      ],
+      "l_hip": [
+        620.83,
+        360.36
+      ],
+      "r_hip": null,
+      "l_knee": [
+        617.35,
+        443.99
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        633.03,
+        524.14
+      ],
+      "r_ankle": null
+    },
+    "02_101_early.jpg": {
+      "head": [
+        620.83,
+        316.81
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": [
+        646.97,
+        322.03
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        645.23,
+        287.19
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        711.43,
+        443.99
+      ],
+      "r_hip": null,
+      "l_knee": [
+        608.64,
+        457.93
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        667.88,
+        527.62
+      ],
+      "r_ankle": null
+    },
+    "02_101_early.png": {
+      "head": [
+        617.35,
+        311.58
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": [
+        646.97,
+        320.29
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        645.23,
+        295.9
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        716.66,
+        440.51
+      ],
+      "r_hip": null,
+      "l_knee": [
+        613.87,
+        456.19
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        667.88,
+        527.62
+      ],
+      "r_ankle": null
+    },
+    "02_101_entry.jpg": {
+      "head": [
+        366.46,
+        374.3
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_entry.png": {
+      "head": [
+        376.91,
+        374.3
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_peak.jpg": {
+      "head": [
+        549.4,
+        370.82
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        585.99,
+        384.75
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        612.12,
+        358.62
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        613.87,
+        316.81
+      ],
+      "l_hip": null,
+      "r_hip": [
+        680.07,
+        360.36
+      ],
+      "l_knee": null,
+      "r_knee": [
+        594.7,
+        294.16
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        533.72,
+        240.73
+      ]
+    },
+    "02_101_peak.png": {
+      "head": [
+        545.92,
+        367.91
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        594.7,
+        397.53
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        606.9,
+        355.72
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        613.87,
+        317.39
+      ],
+      "l_hip": null,
+      "r_hip": [
+        667.88,
+        360.94
+      ],
+      "l_knee": null,
+      "r_knee": [
+        587.73,
+        289.51
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        525.01,
+        233.76
+      ]
+    },
+    "02_101_preentry.jpg": {
+      "head": [
+        425.7,
+        419.6
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_preentry.png": {
+      "head": [
+        425.7,
+        419.6
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_rot1.jpg": {
+      "head": [
+        640,
+        445.74
+      ],
+      "l_shoulder": [
+        657.42,
+        407.99
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        727.11,
+        423.67
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        657.42,
+        306.93
+      ],
+      "r_hip": null,
+      "l_knee": [
+        674.85,
+        211.11
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        678.33,
+        143.16
+      ],
+      "r_ankle": null
+    },
+    "02_101_rot1.png": {
+      "head": [
+        638.26,
+        454.45
+      ],
+      "l_shoulder": [
+        653.94,
+        412.63
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        730.6,
+        412.63
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        650.45,
+        306.35
+      ],
+      "r_hip": null,
+      "l_knee": [
+        676.59,
+        217.5
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        678.33,
+        137.35
+      ],
+      "r_ankle": null
+    },
+    "02_101_rot2.jpg": {
+      "head": [
+        525.01,
+        562.47
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_rot2.png": {
+      "head": [
+        528.49,
+        558.98
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_takeoff.jpg": {
+      "head": [
+        660.91,
+        191.36
+      ],
+      "l_shoulder": [
+        864.75,
+        466.64
+      ],
+      "r_shoulder": [
+        422.21,
+        447.48
+      ],
+      "l_elbow": [
+        1159.2,
+        503.23
+      ],
+      "r_elbow": [
+        176.55,
+        496.26
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "02_101_takeoff.png": {
+      "head": [
+        657.42,
+        187.88
+      ],
+      "l_shoulder": [
+        880.44,
+        457.93
+      ],
+      "r_shoulder": [
+        413.5,
+        457.93
+      ],
+      "l_elbow": [
+        1131.32,
+        494.52
+      ],
+      "r_elbow": [
+        174.81,
+        487.55
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_early.jpg": {
+      "head": [
+        713.18,
+        280.22
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        660.91,
+        281.96
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        633.03,
+        322.03
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        648.71,
+        356.88
+      ],
+      "l_hip": null,
+      "r_hip": [
+        552.89,
+        315.64
+      ],
+      "l_knee": null,
+      "r_knee": [
+        652.2,
+        338.29
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        732.34,
+        381.27
+      ]
+    },
+    "04_014_early.png": {
+      "head": [
+        713.18,
+        280.22
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        659.17,
+        278.48
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        640,
+        316.81
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        641.74,
+        360.36
+      ],
+      "l_hip": null,
+      "r_hip": [
+        549.4,
+        308.09
+      ],
+      "l_knee": null,
+      "r_knee": [
+        652.2,
+        332.49
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        728.86,
+        378.37
+      ]
+    },
+    "04_014_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_late.png": {
+      "head": [
+        444.86,
+        522.98
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_peak.jpg": {
+      "head": [
+        737.57,
+        320.29
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        681.81,
+        308.09
+      ],
+      "l_elbow": [
+        646.97,
+        334.23
+      ],
+      "r_elbow": [
+        660.91,
+        349.91
+      ],
+      "l_wrist": [
+        660.91,
+        349.91
+      ],
+      "r_wrist": [
+        660.91,
+        349.91
+      ],
+      "l_hip": null,
+      "r_hip": [
+        636.52,
+        391.72
+      ],
+      "l_knee": null,
+      "r_knee": [
+        579.02,
+        280.22
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        633.03,
+        437.02
+      ]
+    },
+    "04_014_peak.png": {
+      "head": [
+        728.86,
+        308.09
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        685.3,
+        313.32
+      ],
+      "l_elbow": [
+        645.23,
+        339.46
+      ],
+      "r_elbow": [
+        664.39,
+        348.17
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        640,
+        405.66
+      ],
+      "l_hip": null,
+      "r_hip": [
+        582.5,
+        282.54
+      ],
+      "l_knee": null,
+      "r_knee": [
+        615.61,
+        359.2
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        653.94,
+        435.86
+      ]
+    },
+    "04_014_preentry.jpg": {
+      "head": [
+        404.79,
+        554.34
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_preentry.png": {
+      "head": [
+        406.53,
+        556.08
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_rot1.jpg": {
+      "head": [
+        744.54,
+        377.79
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        695.75,
+        346.42
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        653.94,
+        372.56
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        657.42,
+        402.18
+      ],
+      "l_hip": null,
+      "r_hip": [
+        584.25,
+        344.68
+      ],
+      "l_knee": null,
+      "r_knee": [
+        673.1,
+        389.98
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        723.63,
+        434.12
+      ]
+    },
+    "04_014_rot1.png": {
+      "head": [
+        737.57,
+        376.62
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        692.27,
+        348.75
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        655.68,
+        380.11
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        650.45,
+        401.02
+      ],
+      "l_hip": null,
+      "r_hip": [
+        592.96,
+        327.84
+      ],
+      "l_knee": null,
+      "r_knee": [
+        676.59,
+        381.85
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        704.46,
+        427.15
+      ]
+    },
+    "04_014_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_014_takeoff.jpg": {
+      "head": [
+        699.24,
+        383.59
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        671.36,
+        352.23
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        633.03,
+        373.14
+      ],
+      "l_wrist": [
+        585.99,
+        425.41
+      ],
+      "r_wrist": [
+        570.31,
+        406.24
+      ],
+      "l_hip": null,
+      "r_hip": [
+        575.54,
+        258.15
+      ],
+      "l_knee": null,
+      "r_knee": [
+        537.21,
+        345.26
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        481.45,
+        434.12
+      ]
+    },
+    "04_014_takeoff.png": {
+      "head": [
+        700.98,
+        392.3
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        678.33,
+        348.75
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        631.29,
+        367.91
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        579.02,
+        406.24
+      ],
+      "l_hip": null,
+      "r_hip": [
+        577.28,
+        265.12
+      ],
+      "l_knee": null,
+      "r_knee": [
+        533.72,
+        352.23
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        483.19,
+        432.38
+      ]
+    },
+    "04_020_early.jpg": {
+      "head": [
+        646.97,
+        435.28
+      ],
+      "l_shoulder": [
+        657.42,
+        395.21
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        683.56,
+        452.7
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        713.18,
+        447.48
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        777.64,
+        381.27
+      ],
+      "r_hip": null,
+      "l_knee": [
+        702.72,
+        426.57
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        634.77,
+        492.78
+      ],
+      "r_ankle": null
+    },
+    "04_020_early.png": {
+      "head": [
+        650.45,
+        433.54
+      ],
+      "l_shoulder": [
+        664.39,
+        389.98
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        683.56,
+        449.22
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        716.66,
+        445.74
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        784.61,
+        377.79
+      ],
+      "r_hip": null,
+      "l_knee": [
+        699.24,
+        424.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        634.77,
+        488.13
+      ],
+      "r_ankle": null
+    },
+    "04_020_entry.png": {
+      "head": [
+        883.92,
+        463.74
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_late.jpg": {
+      "head": [
+        917.02,
+        468.97
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_late.png": {
+      "head": [
+        915.28,
+        467.22
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_peak.jpg": {
+      "head": [
+        713.18,
+        568.28
+      ],
+      "l_shoulder": [
+        707.95,
+        540.4
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        730.6,
+        585.7
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        695.75,
+        425.41
+      ],
+      "r_hip": null,
+      "l_knee": [
+        713.18,
+        359.2
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        706.21,
+        272.09
+      ],
+      "r_ankle": null
+    },
+    "04_020_peak.png": {
+      "head": [
+        711.43,
+        566.53
+      ],
+      "l_shoulder": [
+        711.43,
+        529.95
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        732.34,
+        597.89
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        688.78,
+        432.38
+      ],
+      "r_hip": null,
+      "l_knee": [
+        716.66,
+        367.91
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        709.69,
+        282.54
+      ],
+      "r_ankle": null
+    },
+    "04_020_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_rot1.jpg": {
+      "head": [
+        610.81,
+        425.28
+      ],
+      "l_shoulder": [
+        650.45,
+        412.63
+      ],
+      "r_shoulder": [
+        664.39,
+        374.3
+      ],
+      "l_elbow": [
+        652.2,
+        426.57
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        643.48,
+        461.42
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        772.41,
+        450.96
+      ],
+      "r_hip": null,
+      "l_knee": [
+        704.46,
+        492.78
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        643.48,
+        565.95
+      ],
+      "r_ankle": null
+    },
+    "04_020_rot1.png": {
+      "head": [
+        606.9,
+        419.6
+      ],
+      "l_shoulder": [
+        653.94,
+        409.15
+      ],
+      "r_shoulder": [
+        664.39,
+        383.01
+      ],
+      "l_elbow": [
+        653.94,
+        430.05
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        643.48,
+        461.42
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        767.19,
+        443.99
+      ],
+      "r_hip": null,
+      "l_knee": [
+        709.69,
+        496.26
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        650.45,
+        552.01
+      ],
+      "r_ankle": null
+    },
+    "04_020_rot2.jpg": {
+      "head": [
+        856.04,
+        464.9
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_rot2.png": {
+      "head": [
+        849.07,
+        433.54
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_020_takeoff.jpg": {
+      "head": [
+        688.78,
+        456.19
+      ],
+      "l_shoulder": [
+        667.88,
+        407.4
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        716.66,
+        377.79
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        748.02,
+        349.91
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        664.39,
+        304.61
+      ],
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        756.73,
+        424.83
+      ],
+      "r_ankle": null
+    },
+    "04_020_takeoff.png": {
+      "head": [
+        695.75,
+        442.25
+      ],
+      "l_shoulder": [
+        678.33,
+        409.15
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        725.37,
+        389.98
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        748.02,
+        353.39
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        673.1,
+        304.61
+      ],
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        754.99,
+        428.31
+      ],
+      "r_ankle": null
+    },
+    "04_088_early.jpg": {
+      "head": [
+        685.3,
+        268.6
+      ],
+      "l_shoulder": [
+        674.85,
+        303.45
+      ],
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        681.81,
+        409.73
+      ],
+      "r_hip": null,
+      "l_knee": [
+        584.25,
+        456.77
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        622.58,
+        540.4
+      ],
+      "r_ankle": null
+    },
+    "04_088_early.png": {
+      "head": [
+        692.27,
+        256.41
+      ],
+      "l_shoulder": [
+        678.33,
+        299.96
+      ],
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        685.3,
+        404.5
+      ],
+      "r_hip": null,
+      "l_knee": [
+        587.73,
+        462
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        615.61,
+        536.91
+      ],
+      "r_ankle": null
+    },
+    "04_088_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_088_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_088_late.jpg": {
+      "head": [
+        416.99,
+        417.86
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_088_late.png": {
+      "head": [
+        410.02,
+        417.86
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_088_peak.jpg": {
+      "head": [
+        734.08,
+        342.94
+      ],
+      "l_shoulder": [
+        688.78,
+        315.06
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        678.33,
+        280.22
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        681.81,
+        255.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        606.9,
+        240.15
+      ],
+      "r_hip": null,
+      "l_knee": [
+        709.69,
+        257.57
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        660.91,
+        189.62
+      ],
+      "r_ankle": null
+    },
+    "04_088_peak.png": {
+      "head": [
+        748.02,
+        337.71
+      ],
+      "l_shoulder": [
+        685.3,
+        309.84
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        671.36,
+        281.96
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        683.56,
+        254.08
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        619.09,
+        245.37
+      ],
+      "r_hip": null,
+      "l_knee": [
+        699.24,
+        264.54
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        653.94,
+        193.1
+      ],
+      "r_ankle": null
+    },
+    "04_088_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_088_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "04_088_rot1.jpg": {
+      "head": [
+        530.24,
+        172.2
+      ],
+      "l_shoulder": [
+        589.47,
+        203.56
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        599.93,
+        254.08
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        666.13,
+        248.86
+      ],
+      "r_hip": null,
+      "l_knee": [
+        580.76,
+        252.34
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        645.23,
+        315.06
+      ],
+      "r_ankle": null
+    },
+    "04_088_rot1.png": {
+      "head": [
+        526.75,
+        170.45
+      ],
+      "l_shoulder": [
+        594.7,
+        200.07
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        605.15,
+        245.37
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        681.81,
+        243.63
+      ],
+      "r_hip": null,
+      "l_knee": [
+        582.5,
+        255.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        646.97,
+        311.58
+      ],
+      "r_ankle": null
+    },
+    "04_088_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": [
+        714.92,
+        394.05
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        692.27,
+        320.87
+      ],
+      "r_ankle": null
+    },
+    "04_088_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": [
+        716.66,
+        381.85
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        688.78,
+        315.64
+      ],
+      "r_ankle": null
+    },
+    "04_088_takeoff.jpg": {
+      "head": [
+        603.41,
+        198.91
+      ],
+      "l_shoulder": [
+        634.77,
+        230.27
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        622.58,
+        207.62
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        608.64,
+        164.07
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        660.91,
+        345.26
+      ],
+      "r_hip": null,
+      "l_knee": [
+        633.03,
+        428.89
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        646.97,
+        517.75
+      ],
+      "r_ankle": null
+    },
+    "04_088_takeoff.png": {
+      "head": [
+        605.15,
+        189.62
+      ],
+      "l_shoulder": [
+        641.74,
+        231.43
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        620.83,
+        200.07
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        612.12,
+        172.2
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        667.88,
+        342.94
+      ],
+      "r_hip": null,
+      "l_knee": [
+        633.03,
+        426.57
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        653.94,
+        517.17
+      ],
+      "r_ankle": null
+    },
+    "17_039_early.jpg": {
+      "head": [
+        697.5,
+        252.34
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        678.33,
+        294.16
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        716.66,
+        335.97
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        568.57,
+        318.55
+      ],
+      "l_knee": null,
+      "r_knee": [
+        563.34,
+        391.72
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        568.57,
+        473.61
+      ]
+    },
+    "17_039_early.png": {
+      "head": [
+        697.5,
+        245.37
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        678.33,
+        287.19
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        704.46,
+        323.77
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        577.28,
+        318.55
+      ],
+      "l_knee": null,
+      "r_knee": [
+        568.57,
+        384.75
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        561.6,
+        475.35
+      ]
+    },
+    "17_039_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_039_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_039_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_039_peak.jpg": {
+      "head": [
+        554.63,
+        243.63
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        570.31,
+        297.64
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        619.09,
+        245.37
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        617.35,
+        210.53
+      ],
+      "l_hip": null,
+      "r_hip": [
+        643.48,
+        295.9
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        566.82,
+        175.68
+      ]
+    },
+    "17_039_peak.png": {
+      "head": [
+        549.4,
+        245.37
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        573.79,
+        279.06
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        615.61,
+        242.47
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        612.12,
+        202.4
+      ],
+      "l_hip": null,
+      "r_hip": [
+        646.97,
+        301.71
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        563.34,
+        184.97
+      ]
+    },
+    "17_039_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_039_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_039_rot1.jpg": {
+      "head": [
+        624.32,
+        318.55
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        598.19,
+        280.22
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        531.98,
+        311.58
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        531.98,
+        233.18
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        556.37,
+        373.14
+      ]
+    },
+    "17_039_rot1.png": {
+      "head": [
+        619.09,
+        306.93
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        603.41,
+        286.03
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        530.24,
+        299.96
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        531.98,
+        233.76
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        545.92,
+        376.62
+      ]
+    },
+    "17_039_rot2.jpg": {
+      "head": [
+        678.33,
+        519.49
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        671.36,
+        488.13
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        657.42,
+        507.3
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        627.8,
+        392.3
+      ],
+      "l_knee": null,
+      "r_knee": [
+        577.28,
+        353.97
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        528.49,
+        270.34
+      ]
+    },
+    "17_039_rot2.png": {
+      "head": [
+        667.88,
+        522.98
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        660.91,
+        496.84
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        659.17,
+        538.66
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        626.06,
+        401.02
+      ],
+      "l_knee": null,
+      "r_knee": [
+        572.05,
+        336.55
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        525.01,
+        270.34
+      ]
+    },
+    "17_039_takeoff.jpg": {
+      "head": [
+        652.2,
+        299.96
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        606.9,
+        340.04
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        538.95,
+        397.53
+      ],
+      "l_knee": null,
+      "r_knee": [
+        622.58,
+        439.35
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        587.73,
+        496.84
+      ]
+    },
+    "17_039_takeoff.png": {
+      "head": [
+        650.45,
+        286.03
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        619.09,
+        338.29
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        549.4,
+        387.08
+      ],
+      "l_knee": null,
+      "r_knee": [
+        629.55,
+        437.6
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        579.02,
+        506.72
+      ]
+    },
+    "17_052_early.jpg": {
+      "head": [
+        737.57,
+        252.34
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        692.27,
+        266.28
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        678.33,
+        313.32
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        594.7,
+        252.34
+      ],
+      "l_knee": null,
+      "r_knee": [
+        575.54,
+        332.49
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        563.34,
+        416.12
+      ]
+    },
+    "17_052_early.png": {
+      "head": [
+        730.6,
+        273.25
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        694.01,
+        269.76
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        678.33,
+        315.06
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        579.02,
+        245.37
+      ],
+      "l_knee": null,
+      "r_knee": [
+        577.28,
+        332.49
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        559.85,
+        412.63
+      ]
+    },
+    "17_052_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_peak.jpg": {
+      "head": [
+        612.12,
+        254.08
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        603.41,
+        297.64
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        643.48,
+        306.35
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        606.9,
+        376.04
+      ],
+      "l_knee": null,
+      "r_knee": [
+        664.39,
+        329
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        744.54,
+        298.22
+      ]
+    },
+    "17_052_peak.png": {
+      "head": [
+        619.09,
+        254.08
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        591.22,
+        285.44
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        636.52,
+        297.64
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        599.93,
+        374.3
+      ],
+      "l_knee": null,
+      "r_knee": [
+        673.1,
+        318.55
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        748.02,
+        304.61
+      ]
+    },
+    "17_052_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_rot1.jpg": {
+      "head": [
+        531.98,
+        363.85
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        573.79,
+        339.46
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        545.92,
+        283.7
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        624.32,
+        255.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_rot1.png": {
+      "head": [
+        538.95,
+        344.1
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        580.76,
+        333.65
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        549.4,
+        279.64
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        620.83,
+        267.44
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_052_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        627.8,
+        313.32
+      ],
+      "l_knee": null,
+      "r_knee": [
+        608.64,
+        240.15
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        594.7,
+        182.65
+      ]
+    },
+    "17_052_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        638.26,
+        325.52
+      ],
+      "l_knee": null,
+      "r_knee": [
+        615.61,
+        238.4
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        608.64,
+        172.2
+      ]
+    },
+    "17_052_takeoff.jpg": {
+      "head": [
+        640,
+        332.49
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        610.38,
+        391.72
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        549.4,
+        440.51
+      ],
+      "l_knee": [
+        626.06,
+        485.81
+      ],
+      "r_knee": [
+        615.61,
+        499.75
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        591.22,
+        569.44
+      ]
+    },
+    "17_052_takeoff.png": {
+      "head": [
+        640,
+        332.49
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        608.64,
+        379.53
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        547.66,
+        449.8
+      ],
+      "l_knee": [
+        626.06,
+        488.13
+      ],
+      "r_knee": [
+        613.87,
+        498.58
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        592.96,
+        568.28
+      ]
+    },
+    "17_159_early.jpg": {
+      "head": [
+        556.37,
+        190.2
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        511.07,
+        223.3
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        542.43,
+        158.84
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        558.11,
+        115.28
+      ],
+      "l_hip": null,
+      "r_hip": [
+        519.78,
+        330.16
+      ],
+      "l_knee": null,
+      "r_knee": [
+        559.85,
+        415.54
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        565.08,
+        493.94
+      ]
+    },
+    "17_159_early.png": {
+      "head": [
+        554.63,
+        184.97
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        523.27,
+        218.08
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        547.66,
+        157.1
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        558.11,
+        108.31
+      ],
+      "l_hip": null,
+      "r_hip": [
+        528.49,
+        338.29
+      ],
+      "l_knee": null,
+      "r_knee": [
+        570.31,
+        416.7
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        572.05,
+        496.84
+      ]
+    },
+    "17_159_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": [
+        643.48,
+        357.46
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        636.52,
+        289.51
+      ]
+    },
+    "17_159_late.jpg": {
+      "head": [
+        502.36,
+        362.11
+      ],
+      "l_shoulder": [
+        587.73,
+        363.85
+      ],
+      "r_shoulder": [
+        530.24,
+        335.97
+      ],
+      "l_elbow": [
+        615.61,
+        349.91
+      ],
+      "r_elbow": [
+        500.62,
+        327.26
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        629.55,
+        280.22
+      ],
+      "r_hip": [
+        594.7,
+        241.89
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        730.6,
+        160
+      ],
+      "r_ankle": [
+        685.3,
+        142.58
+      ]
+    },
+    "17_159_late.png": {
+      "head": [
+        514.56,
+        372.56
+      ],
+      "l_shoulder": [
+        587.73,
+        367.33
+      ],
+      "r_shoulder": [
+        523.27,
+        320.29
+      ],
+      "l_elbow": [
+        612.12,
+        344.68
+      ],
+      "r_elbow": [
+        507.59,
+        320.29
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        629.55,
+        283.7
+      ],
+      "r_hip": [
+        596.44,
+        243.63
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        720.15,
+        161.74
+      ],
+      "r_ankle": [
+        692.27,
+        137.35
+      ]
+    },
+    "17_159_peak.jpg": {
+      "head": [
+        681.81,
+        280.22
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        678.33,
+        320.29
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        734.08,
+        316.81
+      ],
+      "l_wrist": [
+        760.22,
+        264.54
+      ],
+      "r_wrist": [
+        779.38,
+        309.84
+      ],
+      "l_hip": null,
+      "r_hip": [
+        605.15,
+        405.66
+      ],
+      "l_knee": null,
+      "r_knee": [
+        612.12,
+        501.49
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        585.99,
+        553.76
+      ]
+    },
+    "17_159_peak.png": {
+      "head": [
+        1044.21,
+        583.38
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        667.88,
+        318.55
+      ],
+      "l_elbow": [
+        748.02,
+        316.81
+      ],
+      "r_elbow": [
+        727.11,
+        297.64
+      ],
+      "l_wrist": [
+        772.41,
+        269.76
+      ],
+      "r_wrist": [
+        793.32,
+        302.87
+      ],
+      "l_hip": null,
+      "r_hip": [
+        605.15,
+        419.6
+      ],
+      "l_knee": null,
+      "r_knee": [
+        605.15,
+        502.07
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        598.19,
+        563.05
+      ]
+    },
+    "17_159_preentry.jpg": {
+      "head": [
+        702.72,
+        418.44
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        678.33,
+        421.92
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        657.42,
+        453.28
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        645.23,
+        496.84
+      ],
+      "l_hip": [
+        591.22,
+        287.19
+      ],
+      "r_hip": [
+        610.38,
+        304.61
+      ],
+      "l_knee": null,
+      "r_knee": [
+        537.21,
+        313.32
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        443.12,
+        309.84
+      ]
+    },
+    "17_159_preentry.png": {
+      "head": [
+        700.98,
+        409.15
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        680.07,
+        410.89
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        657.42,
+        447.48
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        650.45,
+        496.26
+      ],
+      "l_hip": [
+        587.73,
+        297.64
+      ],
+      "r_hip": [
+        615.61,
+        320.29
+      ],
+      "l_knee": null,
+      "r_knee": [
+        544.17,
+        322.03
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        446.61,
+        316.81
+      ]
+    },
+    "17_159_rot1.jpg": {
+      "head": [
+        599.93,
+        261.05
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        563.34,
+        274.99
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        540.69,
+        254.08
+      ],
+      "l_wrist": [
+        516.3,
+        227.95
+      ],
+      "r_wrist": [
+        538.95,
+        203.56
+      ],
+      "l_hip": null,
+      "r_hip": [
+        533.72,
+        406.24
+      ],
+      "l_knee": null,
+      "r_knee": [
+        587.73,
+        481.16
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        558.11,
+        566.53
+      ]
+    },
+    "17_159_rot1.png": {
+      "head": [
+        594.7,
+        276.73
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        565.08,
+        280.22
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        542.43,
+        255.83
+      ],
+      "l_wrist": [
+        516.3,
+        236.66
+      ],
+      "r_wrist": [
+        538.95,
+        214.01
+      ],
+      "l_hip": null,
+      "r_hip": [
+        540.69,
+        407.4
+      ],
+      "l_knee": null,
+      "r_knee": [
+        589.47,
+        478.84
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        559.85,
+        560.73
+      ]
+    },
+    "17_159_rot2.jpg": {
+      "head": [
+        674.85,
+        217.5
+      ],
+      "l_shoulder": [
+        669.62,
+        255.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        650.45,
+        297.64
+      ],
+      "r_elbow": [
+        584.25,
+        182.65
+      ],
+      "l_wrist": [
+        636.52,
+        322.03
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        605.15,
+        304.61
+      ],
+      "r_hip": [
+        556.37,
+        297.64
+      ],
+      "l_knee": [
+        577.28,
+        363.85
+      ],
+      "r_knee": [
+        533.72,
+        363.85
+      ],
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_159_rot2.png": {
+      "head": [
+        685.3,
+        210.53
+      ],
+      "l_shoulder": [
+        671.36,
+        259.31
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        652.2,
+        299.38
+      ],
+      "r_elbow": [
+        589.47,
+        182.65
+      ],
+      "l_wrist": [
+        634.77,
+        318.55
+      ],
+      "r_wrist": [
+        598.19,
+        303.45
+      ],
+      "l_hip": [
+        556.37,
+        291.25
+      ],
+      "r_hip": [
+        580.76,
+        360.36
+      ],
+      "l_knee": [
+        540.69,
+        358.62
+      ],
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "17_159_takeoff.jpg": {
+      "head": [
+        547.66,
+        316.81
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        538.95,
+        346.42
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        566.82,
+        308.09
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        587.73,
+        266.28
+      ],
+      "l_hip": null,
+      "r_hip": [
+        521.52,
+        464.9
+      ],
+      "l_knee": [
+        572.05,
+        531.11
+      ],
+      "r_knee": [
+        619.09,
+        475.35
+      ],
+      "l_ankle": [
+        559.85,
+        607.77
+      ],
+      "r_ankle": [
+        585.99,
+        545.05
+      ]
+    },
+    "17_159_takeoff.png": {
+      "head": [
+        547.66,
+        318.55
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        540.69,
+        342.94
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        568.57,
+        309.84
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        589.47,
+        264.54
+      ],
+      "l_hip": null,
+      "r_hip": [
+        518.04,
+        464.9
+      ],
+      "l_knee": [
+        566.82,
+        536.33
+      ],
+      "r_knee": [
+        613.87,
+        475.35
+      ],
+      "l_ankle": [
+        565.08,
+        606.03
+      ],
+      "r_ankle": [
+        592.96,
+        539.82
+      ]
+    },
+    "26_016_early.jpg": {
+      "head": [
+        299.33,
+        64.83
+      ],
+      "l_shoulder": [
+        311.33,
+        66.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        304.33,
+        42.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        306.33,
+        16.83
+      ],
+      "r_wrist": [
+        301.33,
+        24.83
+      ],
+      "l_hip": [
+        312.33,
+        124.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        299.33,
+        164.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        311.33,
+        195.83
+      ],
+      "r_ankle": [
+        311.33,
+        196.83
+      ]
+    },
+    "26_016_early.png": {
+      "head": [
+        297.33,
+        64.83
+      ],
+      "l_shoulder": [
+        313.33,
+        67.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        303.33,
+        37.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        307.33,
+        12.83
+      ],
+      "r_wrist": [
+        301.33,
+        22.83
+      ],
+      "l_hip": [
+        311.33,
+        123.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        299.33,
+        166.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        311.33,
+        195.83
+      ],
+      "r_ankle": null
+    },
+    "26_016_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_peak.jpg": {
+      "head": [
+        243.33,
+        82.83
+      ],
+      "l_shoulder": [
+        257.33,
+        92.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        255.33,
+        111.83
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": [
+        293.33,
+        108.83
+      ],
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        217.33,
+        117.83
+      ],
+      "r_ankle": null
+    },
+    "26_016_peak.png": {
+      "head": [
+        241.33,
+        83.83
+      ],
+      "l_shoulder": [
+        257.33,
+        89.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        253.33,
+        110.83
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        299.33,
+        108.83
+      ],
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        220.33,
+        120.83
+      ],
+      "r_ankle": null
+    },
+    "26_016_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_rot1.jpg": {
+      "head": [
+        300.33,
+        199.83
+      ],
+      "l_shoulder": [
+        311.33,
+        211.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        313.33,
+        234.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        310.33,
+        255.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        335.33,
+        254.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        315.33,
+        286.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        333.33,
+        318.83
+      ],
+      "r_ankle": null
+    },
+    "26_016_rot1.png": {
+      "head": [
+        298.33,
+        194.83
+      ],
+      "l_shoulder": [
+        309.33,
+        212.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        313.33,
+        234.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        315.33,
+        256.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        338.33,
+        252.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        320.33,
+        286.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        333.33,
+        312.83
+      ],
+      "r_ankle": null
+    },
+    "26_016_rot2.jpg": {
+      "head": [
+        277.33,
+        182.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        305.33,
+        194.83
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        303.33,
+        230.83
+      ],
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_rot2.png": {
+      "head": [
+        281.33,
+        180.83
+      ],
+      "l_shoulder": [
+        304.33,
+        195.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        307.33,
+        234.83
+      ],
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_016_takeoff.jpg": {
+      "head": [
+        303.33,
+        206.83
+      ],
+      "l_shoulder": [
+        312.33,
+        215.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        281.33,
+        219.83
+      ],
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        315.33,
+        271.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        293.33,
+        307.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        325.33,
+        326.83
+      ],
+      "r_ankle": [
+        302.33,
+        340.83
+      ]
+    },
+    "26_016_takeoff.png": {
+      "head": [
+        299.33,
+        205.83
+      ],
+      "l_shoulder": [
+        305.33,
+        216.83
+      ],
+      "r_shoulder": [
+        279.33,
+        217.83
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        317.33,
+        272.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        295.33,
+        302.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        323.33,
+        327.83
+      ],
+      "r_ankle": [
+        302.33,
+        350.83
+      ]
+    },
+    "26_032_early.jpg": {
+      "head": [
+        286.33,
+        208.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        297.33,
+        222.83
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        300.33,
+        283.83
+      ],
+      "l_knee": null,
+      "r_knee": [
+        323.33,
+        303.83
+      ],
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_early.png": {
+      "head": [
+        282.33,
+        208.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        299.33,
+        217.83
+      ],
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        301.33,
+        277.83
+      ],
+      "l_knee": null,
+      "r_knee": [
+        326.33,
+        305.83
+      ],
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_entry.png": {
+      "head": [
+        406.33,
+        207.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_late.jpg": {
+      "head": [
+        380.33,
+        202.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_late.png": {
+      "head": [
+        378.33,
+        208.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_peak.jpg": {
+      "head": [
+        263.33,
+        175.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        259.33,
+        197.83
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        279.33,
+        213.83
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        267.33,
+        250.83
+      ],
+      "l_knee": null,
+      "r_knee": [
+        304.33,
+        246.83
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        347.33,
+        251.83
+      ]
+    },
+    "26_032_peak.png": {
+      "head": [
+        263.33,
+        174.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        256.33,
+        193.83
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        280.33,
+        214.83
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        267.33,
+        250.83
+      ],
+      "l_knee": null,
+      "r_knee": [
+        299.33,
+        245.83
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        349.33,
+        244.83
+      ]
+    },
+    "26_032_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_rot1.jpg": {
+      "head": [
+        300.33,
+        133.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        282.33,
+        140.83
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        256.33,
+        155.83
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        231.33,
+        133.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        267.33,
+        205.83
+      ]
+    },
+    "26_032_rot1.png": {
+      "head": [
+        304.33,
+        135.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": [
+        283.33,
+        140.83
+      ],
+      "l_elbow": null,
+      "r_elbow": [
+        253.33,
+        158.83
+      ],
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": [
+        235.33,
+        133.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": [
+        265.33,
+        197.83
+      ]
+    },
+    "26_032_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_032_takeoff.jpg": {
+      "head": [
+        335.33,
+        156.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": [
+        323.33,
+        156.83
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        323.33,
+        132.83
+      ],
+      "l_hip": null,
+      "r_hip": [
+        298.33,
+        217.83
+      ],
+      "l_knee": null,
+      "r_knee": [
+        329.33,
+        258.83
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        321.33,
+        291.83
+      ]
+    },
+    "26_032_takeoff.png": {
+      "head": [
+        333.33,
+        158.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": [
+        321.33,
+        154.83
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        324.33,
+        133.83
+      ],
+      "l_hip": null,
+      "r_hip": [
+        298.33,
+        221.83
+      ],
+      "l_knee": null,
+      "r_knee": [
+        327.33,
+        256.83
+      ],
+      "l_ankle": null,
+      "r_ankle": [
+        319.33,
+        291.83
+      ]
+    },
+    "26_079_early.jpg": {
+      "head": [
+        283.33,
+        256.17
+      ],
+      "l_shoulder": [
+        306.33,
+        247.83
+      ],
+      "r_shoulder": [
+        285.33,
+        210.83
+      ],
+      "l_elbow": [
+        323.33,
+        257.83
+      ],
+      "r_elbow": [
+        293.33,
+        182.83
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        315.33,
+        180.83
+      ],
+      "l_hip": [
+        341.33,
+        196.83
+      ],
+      "r_hip": [
+        321.33,
+        177.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        409.33,
+        150.83
+      ],
+      "r_ankle": [
+        406.33,
+        129.83
+      ]
+    },
+    "26_079_early.png": {
+      "head": [
+        291.33,
+        251.83
+      ],
+      "l_shoulder": [
+        307.33,
+        243.83
+      ],
+      "r_shoulder": [
+        284.33,
+        214.83
+      ],
+      "l_elbow": [
+        323.33,
+        260.83
+      ],
+      "r_elbow": [
+        291.33,
+        186.83
+      ],
+      "l_wrist": null,
+      "r_wrist": [
+        313.33,
+        178.83
+      ],
+      "l_hip": [
+        343.33,
+        195.83
+      ],
+      "r_hip": [
+        325.33,
+        179.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        408.33,
+        148.83
+      ],
+      "r_ankle": [
+        402.33,
+        130.83
+      ]
+    },
+    "26_079_entry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_peak.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        305.33,
+        202.83
+      ],
+      "r_ankle": null
+    },
+    "26_079_peak.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        305.33,
+        202.83
+      ],
+      "r_ankle": null
+    },
+    "26_079_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_rot1.jpg": {
+      "head": [
+        283.33,
+        183.83
+      ],
+      "l_shoulder": [
+        305.33,
+        182.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        309.33,
+        200.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        307.33,
+        220.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        344.33,
+        174.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        342.33,
+        214.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        342.33,
+        246.83
+      ],
+      "r_ankle": null
+    },
+    "26_079_rot1.png": {
+      "head": [
+        283.33,
+        180.83
+      ],
+      "l_shoulder": [
+        303.33,
+        184.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        305.33,
+        205.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        307.33,
+        224.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        341.33,
+        171.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        340.33,
+        212.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        345.33,
+        242.83
+      ],
+      "r_ankle": null
+    },
+    "26_079_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_079_takeoff.jpg": {
+      "head": [
+        277.33,
+        114.83
+      ],
+      "l_shoulder": [
+        278.33,
+        142.83
+      ],
+      "r_shoulder": [
+        305.33,
+        118.83
+      ],
+      "l_elbow": [
+        281.33,
+        174.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        261.33,
+        181.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        297.33,
+        192.83
+      ],
+      "r_hip": [
+        327.33,
+        192.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        280.33,
+        277.83
+      ],
+      "r_ankle": [
+        296.33,
+        278.83
+      ]
+    },
+    "26_079_takeoff.png": {
+      "head": [
+        276.33,
+        112.83
+      ],
+      "l_shoulder": [
+        274.33,
+        150.83
+      ],
+      "r_shoulder": [
+        304.33,
+        122.83
+      ],
+      "l_elbow": [
+        281.33,
+        170.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        260.33,
+        178.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        301.33,
+        188.83
+      ],
+      "r_hip": [
+        325.33,
+        189.83
+      ],
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": [
+        283.33,
+        276.17
+      ],
+      "r_ankle": [
+        293.33,
+        277.17
+      ]
+    },
+    "26_093_early.jpg": {
+      "head": [
+        341.33,
+        129.83
+      ],
+      "l_shoulder": [
+        329.33,
+        154.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        338.33,
+        122.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        349.33,
+        102.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        306.33,
+        203.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        301.33,
+        252.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        331.33,
+        291.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_early.png": {
+      "head": [
+        343.33,
+        131.83
+      ],
+      "l_shoulder": [
+        325.33,
+        158.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        331.33,
+        125.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        347.33,
+        106.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        315.33,
+        210.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        294.33,
+        247.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        328.33,
+        286.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_entry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_entry.png": {
+      "head": [
+        309.33,
+        188.83
+      ],
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_late.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_late.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_peak.jpg": {
+      "head": [
+        339.33,
+        108.83
+      ],
+      "l_shoulder": [
+        337.33,
+        130.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        324.33,
+        155.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        314.33,
+        162.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        334.33,
+        178.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        293.33,
+        174.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        257.33,
+        182.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_peak.png": {
+      "head": [
+        343.33,
+        110.83
+      ],
+      "l_shoulder": [
+        339.33,
+        128.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        331.33,
+        146.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        317.33,
+        159.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        335.33,
+        178.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        295.33,
+        172.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        249.33,
+        180.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_preentry.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_preentry.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_rot1.jpg": {
+      "head": [
+        237.33,
+        182.83
+      ],
+      "l_shoulder": [
+        262.33,
+        188.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        275.33,
+        200.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        275.33,
+        219.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        314.33,
+        193.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        257.33,
+        210.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        231.33,
+        224.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_rot1.png": {
+      "head": [
+        241.33,
+        178.83
+      ],
+      "l_shoulder": [
+        257.33,
+        188.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": [
+        272.33,
+        196.83
+      ],
+      "r_elbow": null,
+      "l_wrist": [
+        274.33,
+        211.83
+      ],
+      "r_wrist": null,
+      "l_hip": [
+        313.33,
+        189.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        261.33,
+        210.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        238.33,
+        221.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_rot2.jpg": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_rot2.png": {
+      "head": null,
+      "l_shoulder": null,
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": null,
+      "r_hip": null,
+      "l_knee": null,
+      "r_knee": null,
+      "l_ankle": null,
+      "r_ankle": null
+    },
+    "26_093_takeoff.jpg": {
+      "head": [
+        323.33,
+        140.83
+      ],
+      "l_shoulder": [
+        337.33,
+        154.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        355.33,
+        214.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        331.33,
+        256.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        345.33,
+        300.83
+      ],
+      "r_ankle": null
+    },
+    "26_093_takeoff.png": {
+      "head": [
+        321.33,
+        137.83
+      ],
+      "l_shoulder": [
+        338.33,
+        151.83
+      ],
+      "r_shoulder": null,
+      "l_elbow": null,
+      "r_elbow": null,
+      "l_wrist": null,
+      "r_wrist": null,
+      "l_hip": [
+        356.33,
+        213.83
+      ],
+      "r_hip": null,
+      "l_knee": [
+        328.33,
+        256.83
+      ],
+      "r_knee": null,
+      "l_ankle": [
+        345.33,
+        302.83
+      ],
+      "r_ankle": null
+    }
+  }
+}
