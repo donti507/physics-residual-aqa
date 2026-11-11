@@ -1,0 +1,4 @@
+model,median_px,p90_px,gross_pct,missed_pct,visible_joint_labels,measured_joint_errors,gross_count,missed_count,head_excluded,phases
+vitpose,9.866943843611132,78.9724634662369,14.225941422594142,7.949790794979079,478,440,68,38,True,takeoff;early;peak;rot1;rot2
+rtmpose,10.288597644238619,69.90729129601627,12.133891213389122,7.949790794979079,478,440,58,38,True,takeoff;early;peak;rot1;rot2
+nsaqa,9.483046828841921,33.986999895562136,8.368200836820083,7.949790794979079,478,440,40,38,True,takeoff;early;peak;rot1;rot2

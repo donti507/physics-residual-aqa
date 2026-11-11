@@ -1,0 +1,8 @@
+measure,count,source
+labelled_png_frames,160,data/labels/hand_labels_round1.json
+torso_labelled_frames,81,data/labels/hand_labels_round1.json
+entry_frames,20,label_frames_index.csv
+entry_torso_labelled_frames,0,hand labels + frame index
+vitpose_analysed_frames,81,per-joint error CSVs
+rtmpose_analysed_frames,81,per-joint error CSVs
+nsaqa_analysed_frames,81,per-joint error CSVs
