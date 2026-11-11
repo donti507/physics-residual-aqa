@@ -1,5 +1,5 @@
-model,median_px,source
-vitpose,10.08,user_provided_conference_figure_values
-rtmpose,10.41,user_provided_conference_figure_values
-nsaqa,9.36,user_provided_conference_figure_values
-human,7.8,"independent re-annotation: 47 paired points, 6 frames"
+model,median_px,n_joint_errors,source
+vitpose,9.866943843611132,440,"raw per-joint CSVs; head excluded; phases=takeoff,early,peak,rot1,rot2"
+rtmpose,10.288597644238619,440,"raw per-joint CSVs; head excluded; phases=takeoff,early,peak,rot1,rot2"
+nsaqa,9.483046828841921,440,"raw per-joint CSVs; head excluded; phases=takeoff,early,peak,rot1,rot2"
+human,7.8,47,"independent re-annotation: 47 paired points, 6 frames"

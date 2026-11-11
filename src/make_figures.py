@@ -59,7 +59,7 @@ def load_data(root: Path) -> tuple[np.ndarray, list[dict], list[dict]]:
     """Validate all data before creating any figures; do not average medians."""
     paths = [root / name for name in (
         'detection_threshold.csv', 'pose_error.csv', 'pose_error_nsaqa.csv',
-        'human_consistency.csv', 'model_medians.csv')]
+        'human_consistency.csv')]
     missing = [str(p) for p in paths if not p.is_file()]
     if missing:
         raise FileNotFoundError('Required CSV missing: ' + ', '.join(missing))
@@ -107,17 +107,17 @@ def load_data(root: Path) -> tuple[np.ndarray, list[dict], list[dict]]:
     overall = [row for row in humans if row['measure'] == 'overall']
     if len(overall) != 1:
         raise ValueError('Expected exactly one overall human-consistency row')
-    model_rows = read_csv(paths[4], {'model', 'median_px', 'head_excluded', 'source'})
-    if len(model_rows) != 3 or {r['model'] for r in model_rows} != set(MODELS):
-        raise ValueError('Expected exactly one supplied overall median per model')
     limit_data = []
     for model in MODELS:
-        row = next(r for r in model_rows if r['model'] == model)
-        if row['head_excluded'].lower() != 'true':
-            raise ValueError(f'{model}: Figure 3 requires head-excluded median')
-        limit_data.append(dict(model=model, median_px=number(row['median_px'], model), source=row['source']))
+        # Pool exactly Figure 2's accepted observations across its five phases;
+        # do not take a median of phase medians or reuse supplied summaries.
+        values = [value for phase in PHASES for value in groups[(model, phase)]]
+        limit_data.append(dict(model=model, median_px=float(np.median(values)),
+                               n_joint_errors=len(values),
+                               source='raw per-joint CSVs; head excluded; phases=' + ','.join(PHASES)))
     human = overall[0]
     limit_data.append(dict(model='human', median_px=number(human['median_px'], 'human overall'),
+                           n_joint_errors=int(human['paired_points']),
                            source=f"independent re-annotation: {human['paired_points']} paired points, {human['frames']} frames"))
     return heatmap, phase_data, limit_data
 
@@ -195,7 +195,7 @@ def figure_limit(rows: list[dict], output: Path) -> None:
     ax.text(REQUIRED_PX+.12, .98, 'required precision', transform=ax.get_xaxis_transform(),
             ha='left', va='top', fontsize=20)
     for bar, value in zip(bars, values):
-        ax.text(value+.12, bar.get_y()+bar.get_height()/2, f'{value:g}', va='center', fontsize=25)
+        ax.text(value+.12, bar.get_y()+bar.get_height()/2, f'{value:.2f}'.rstrip('0').rstrip('.'), va='center', fontsize=25)
     ax.spines['left'].set_visible(False)
     ax.tick_params(axis='y', length=0)
     save(fig, output)
@@ -221,6 +221,9 @@ def main() -> None:
     figure_limit(limits, out/'figure_3_limit.png')
     write_csv(out/'figure_2_phase_medians.csv', phases)
     write_csv(out/'figure_3_medians.csv', limits)
+    write_csv(args.results/'model_medians.csv', [dict(model=r['model'], median_px=r['median_px'],
+        head_excluded=True, n_joint_errors=r['n_joint_errors'], source=r['source'])
+        for r in limits if r['model'] in MODELS])
     write_csv(out/'figure_1_detection_rates.csv', [dict(break_size_percent=b,
         **{f'sigma_{s}_px': float(heatmap[i,j]) for j,s in enumerate(SIGMAS)}) for i,b in enumerate(BREAKS)])
     for path in sorted(out.glob('figure_*.png')):

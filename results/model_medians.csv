@@ -1,4 +1,4 @@
-model,median_px,head_excluded,source
-vitpose,10.08,true,user_provided_conference_figure_values
-rtmpose,10.41,true,user_provided_conference_figure_values
-nsaqa,9.36,true,user_provided_conference_figure_values
+model,median_px,head_excluded,n_joint_errors,source
+vitpose,9.866943843611132,True,440,"raw per-joint CSVs; head excluded; phases=takeoff,early,peak,rot1,rot2"
+rtmpose,10.288597644238619,True,440,"raw per-joint CSVs; head excluded; phases=takeoff,early,peak,rot1,rot2"
+nsaqa,9.483046828841921,True,440,"raw per-joint CSVs; head excluded; phases=takeoff,early,peak,rot1,rot2"
